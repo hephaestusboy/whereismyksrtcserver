@@ -1,0 +1,1 @@
+DELETE FROM locations WHERE timestamp < NOW() - INTERVAL '1 day';
