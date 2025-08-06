@@ -25,29 +25,29 @@ This backend API:
 
 ---
 
-## 📁 Project Structure (ignoring: node_modules, .gitignore, .git)
-whereismyksrtcserver
-├── env.txt
-├── index.js
-├── package.json
-├── package-lock.json
-├── README.md
-├── scheduling
-├── test.js
-├── controllers
-│   ├── authController.js
-│   ├── busController.js
-│   └── locationController.js
-├── middleware
-│   └── authMiddleware.js
-├── routes
-│   ├── authRoutes.js
-│   ├── busRoutes.js
-│   └── locationRoutes.js
-├── utils
-│   ├── authUtils.js
-│   └── db.js
-└── .env
+## 📁 Project Structure (ignoring: node_modules, .gitignore, .git)   
+whereismyksrtcserver<br>
+├── env.txt<br>
+├── index.js<br>
+├── package.json<br>
+├── package-lock.json<br>
+├── README.md<br>
+├── scheduling<br>
+├── test.js<br>
+├── controllers<br>
+│   ├── authController.js<br>
+│   ├── busController.js<br>
+│   └── locationController.js<br>
+├── middleware<br>
+│   └── authMiddleware.js<br>
+├── routes<br>
+│   ├── authRoutes.js<br>
+│   ├── busRoutes.js<br>
+│   └── locationRoutes.js<br>
+├── utils<br>
+│   ├── authUtils.js<br>
+│   └── db.js<br>
+└── .env<br>
 
 
 
